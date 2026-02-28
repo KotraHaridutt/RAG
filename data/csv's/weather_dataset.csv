@@ -1,0 +1,13 @@
+City,Temperature_C,Humidity_%,Wind_kmph,Rainfall_mm,AQI
+Hyderabad,34,45,12,5,82
+Delhi,36,40,10,2,120
+Mumbai,32,70,15,20,95
+Chennai,35,65,14,15,88
+Bangalore,30,55,9,10,70
+Kolkata,33,60,11,18,110
+Pune,31,50,13,7,75
+Jaipur,37,35,8,1,130
+Ahmedabad,38,30,7,0,140
+Lucknow,35,42,10,3,105
+Bhopal,34,47,9,4,98
+Patna,36,52,11,6,115

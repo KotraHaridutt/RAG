@@ -1,0 +1,13 @@
+Product_ID,Category,Price_USD,Units_Sold,Discount_%,Customer_Rating,Region
+P101,Electronics,299,120,10,4.5,North
+P102,Electronics,199,150,5,4.2,South
+P103,Home,85,200,15,4.0,West
+P104,Home,120,170,12,4.1,East
+P105,Fashion,45,300,20,3.9,North
+P106,Fashion,60,250,18,4.3,South
+P107,Electronics,350,110,8,4.6,West
+P108,Home,95,180,14,4.0,East
+P109,Fashion,55,275,22,3.8,North
+P110,Electronics,420,95,7,4.7,South
+P111,Home,150,160,10,4.2,West
+P112,Fashion,70,220,19,4.1,East
